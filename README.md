@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java  
 - Servlet  
@@ -26,19 +26,25 @@
 
 ---
 
-##  Project Structure
+### Project Structure
 
 - **Servlet-JSP-User-Authentication-System**
-  - **src**
-    - **com.app**
-      - Register.java
+  - **src/main/java**
+    - **com.app.model**
       - Login.java
-  - **WebContent**
+      - Register.java
+  - **Libraries**
+  - **Referenced Libraries**
+    - mysql-connector-java-8.0.19.jar
+  - **src/main/webapp**
+    - **META-INF**
+      - MANIFEST.MF
+    - **WEB-INF**
+      - lib
     - index.jsp
     - login.jsp
-    - register.jsp
     - profile.jsp
-  - **WEB-INF**
+    - register.jsp
 
 ---
 
