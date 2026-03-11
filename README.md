@@ -26,24 +26,19 @@
 
 ---
 
-## 📂 Project Structure
-UserAuthApp
-│
-├── src
-│ └── com.app
-│ ├── RegisterServlet.java
-│ ├── LoginServlet.java
-│ └── DBConnection.java
-│
-├── WebContent
-│ ├── index.jsp
-│ ├── login.jsp
-│ ├── register.jsp
-│ ├── profile.jsp
-│ 
-│
-└── WEB-INF
-└── web.xml
+##  Project Structure
+
+- **Servlet-JSP-User-Authentication-System**
+  - **src**
+    - **com.app**
+      - Register.java
+      - Login.java
+  - **WebContent**
+    - index.jsp
+    - login.jsp
+    - register.jsp
+    - profile.jsp
+  - **WEB-INF**
 
 ---
 
