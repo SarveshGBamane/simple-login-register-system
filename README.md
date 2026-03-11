@@ -97,13 +97,7 @@ Run the application on **Apache Tomcat Server**.
 4. A session is created  
 5. User is redirected to the profile page  
 
----
 
-## 📸 Screens
-
-- Login Page  
-- Register Page  
-- Profile Page  
 
 ---
 
