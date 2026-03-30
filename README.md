@@ -101,7 +101,7 @@ Run the application on **Apache Tomcat Server**.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Developed by Sarvesh Bamane
 
