@@ -41,7 +41,7 @@ public class Register extends HttpServlet {
 		
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");		
-			Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/jsp_register","root","sarvesh@123");
+			Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/jsp_register","root","yourPassworf");
 			
 			String insertData = "insert into register values(?,?,?,?,?)";
 			
